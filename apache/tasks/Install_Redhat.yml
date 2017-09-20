@@ -1,0 +1,3 @@
+---
+ - name: Install Apache webserver in Redhat Servers
+   yum: name={{ package_redhat }} state=latest
