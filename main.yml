@@ -1,0 +1,15 @@
+---
+# defaults file for ec2
+
+---
+   aws_access_key: ""
+   aws_secret_key: ""
+   aws_group: "{{ OhioSG  }}"
+   aws_instance_type: "t2.micro"
+   aws_quantity: "1"
+   aws_region: "us-east-2a"
+   aws_image: "{{'ami-cfdafaaa'}}"
+   aws_keypair: "Ohio-keypair"
+   app_name: Auto_EC2
+
+
