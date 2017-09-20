@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Role Name
 =========
 
@@ -37,6 +36,3 @@ Author Information
 ------------------
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
-=======
-# Ansible
->>>>>>> 8df1b8fe212824b4f6bb4378e281232513efbb6e

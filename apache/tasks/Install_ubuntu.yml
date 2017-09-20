@@ -1,0 +1,5 @@
+---
+ - name: To install Apache webserver in ubuntu
+   apt: name={{ package_ubuntu }} state=latest
+
+
